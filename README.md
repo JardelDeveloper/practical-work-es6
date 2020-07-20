@@ -2,13 +2,9 @@
 
 Trabalho prático em Javascript ES6+ solicitado pela IGTI no curso de MBA em Fundamentos de Desenvolvimento Full Stack.
 
-Enunciado:
+Enunciado: Considere que você foi selecionado para um processo seletivo para uma vaga de desenvolvedor web na empresa YYZ. O processo consiste em implementar quatro funções utilizando os diversos conceitos vistos durante a disciplina.
 
-- Considere que você foi selecionado para um processo seletivo para uma vaga de desenvolvedor web na empresa YYZ. O processo consiste em implementar quatro funções utilizando os diversos conceitos vistos durante a disciplina.
-
-Atividade:
-
-- Você deve criar um arquivo (script.js) contendo as quatro funções implementadas, conforme descrição abaixo:
+Atividade: Você deve criar um arquivo (script.js) contendo as quatro funções implementadas, conforme descrição abaixo:
 
 1. Crie uma função chamada getGroupMembers cuja execução deve retornar um array com o nome completo de todos os integrantes de um grupo, em ordem alfabética.
 
